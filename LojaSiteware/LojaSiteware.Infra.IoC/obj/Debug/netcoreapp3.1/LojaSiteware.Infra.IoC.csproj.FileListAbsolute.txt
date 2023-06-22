@@ -1,0 +1,15 @@
+C:\Users\Ed_17\OneDrive\Ambiente de Trabalho\Siteware\Backend\LojaSiteware\LojaSiteware.Infra.IoC\bin\Debug\netcoreapp3.1\LojaSiteware.Infra.IoC.deps.json
+C:\Users\Ed_17\OneDrive\Ambiente de Trabalho\Siteware\Backend\LojaSiteware\LojaSiteware.Infra.IoC\bin\Debug\netcoreapp3.1\LojaSiteware.Infra.IoC.dll
+C:\Users\Ed_17\OneDrive\Ambiente de Trabalho\Siteware\Backend\LojaSiteware\LojaSiteware.Infra.IoC\bin\Debug\netcoreapp3.1\LojaSiteware.Infra.IoC.pdb
+C:\Users\Ed_17\OneDrive\Ambiente de Trabalho\Siteware\Backend\LojaSiteware\LojaSiteware.Infra.IoC\bin\Debug\netcoreapp3.1\LojaSiteware.Domain.dll
+C:\Users\Ed_17\OneDrive\Ambiente de Trabalho\Siteware\Backend\LojaSiteware\LojaSiteware.Infra.IoC\bin\Debug\netcoreapp3.1\LojaSiteware.Infra.Data.dll
+C:\Users\Ed_17\OneDrive\Ambiente de Trabalho\Siteware\Backend\LojaSiteware\LojaSiteware.Infra.IoC\bin\Debug\netcoreapp3.1\LojaSiteware.Infra.Data.pdb
+C:\Users\Ed_17\OneDrive\Ambiente de Trabalho\Siteware\Backend\LojaSiteware\LojaSiteware.Infra.IoC\bin\Debug\netcoreapp3.1\LojaSiteware.Domain.pdb
+C:\Users\Ed_17\OneDrive\Ambiente de Trabalho\Siteware\Backend\LojaSiteware\LojaSiteware.Infra.IoC\obj\Debug\netcoreapp3.1\LojaSiteware.Infra.IoC.csproj.AssemblyReference.cache
+C:\Users\Ed_17\OneDrive\Ambiente de Trabalho\Siteware\Backend\LojaSiteware\LojaSiteware.Infra.IoC\obj\Debug\netcoreapp3.1\LojaSiteware.Infra.IoC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ed_17\OneDrive\Ambiente de Trabalho\Siteware\Backend\LojaSiteware\LojaSiteware.Infra.IoC\obj\Debug\netcoreapp3.1\LojaSiteware.Infra.IoC.AssemblyInfoInputs.cache
+C:\Users\Ed_17\OneDrive\Ambiente de Trabalho\Siteware\Backend\LojaSiteware\LojaSiteware.Infra.IoC\obj\Debug\netcoreapp3.1\LojaSiteware.Infra.IoC.AssemblyInfo.cs
+C:\Users\Ed_17\OneDrive\Ambiente de Trabalho\Siteware\Backend\LojaSiteware\LojaSiteware.Infra.IoC\obj\Debug\netcoreapp3.1\LojaSiteware.Infra.IoC.csproj.CoreCompileInputs.cache
+C:\Users\Ed_17\OneDrive\Ambiente de Trabalho\Siteware\Backend\LojaSiteware\LojaSiteware.Infra.IoC\obj\Debug\netcoreapp3.1\LojaSiteware.Infra.IoC.csproj.CopyComplete
+C:\Users\Ed_17\OneDrive\Ambiente de Trabalho\Siteware\Backend\LojaSiteware\LojaSiteware.Infra.IoC\obj\Debug\netcoreapp3.1\LojaSiteware.Infra.IoC.dll
+C:\Users\Ed_17\OneDrive\Ambiente de Trabalho\Siteware\Backend\LojaSiteware\LojaSiteware.Infra.IoC\obj\Debug\netcoreapp3.1\LojaSiteware.Infra.IoC.pdb

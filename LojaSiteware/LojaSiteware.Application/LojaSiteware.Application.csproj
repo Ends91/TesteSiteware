@@ -1,0 +1,12 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\LojaSiteware.Domain\LojaSiteware.Domain.csproj" />
+    <ProjectReference Include="..\LojaSiteware.Infra\LojaSiteware.Infra.Data.csproj" />
+  </ItemGroup>
+
+</Project>

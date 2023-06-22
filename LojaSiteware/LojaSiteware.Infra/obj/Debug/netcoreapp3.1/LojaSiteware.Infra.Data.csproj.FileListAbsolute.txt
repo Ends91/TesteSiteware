@@ -1,0 +1,13 @@
+C:\Users\Ed_17\OneDrive\Ambiente de Trabalho\Siteware\Backend\LojaSiteware\LojaSiteware.Infra\bin\Debug\netcoreapp3.1\LojaSiteware.Infra.Data.deps.json
+C:\Users\Ed_17\OneDrive\Ambiente de Trabalho\Siteware\Backend\LojaSiteware\LojaSiteware.Infra\bin\Debug\netcoreapp3.1\LojaSiteware.Infra.Data.dll
+C:\Users\Ed_17\OneDrive\Ambiente de Trabalho\Siteware\Backend\LojaSiteware\LojaSiteware.Infra\bin\Debug\netcoreapp3.1\LojaSiteware.Infra.Data.pdb
+C:\Users\Ed_17\OneDrive\Ambiente de Trabalho\Siteware\Backend\LojaSiteware\LojaSiteware.Infra\bin\Debug\netcoreapp3.1\LojaSiteware.Domain.dll
+C:\Users\Ed_17\OneDrive\Ambiente de Trabalho\Siteware\Backend\LojaSiteware\LojaSiteware.Infra\bin\Debug\netcoreapp3.1\LojaSiteware.Domain.pdb
+C:\Users\Ed_17\OneDrive\Ambiente de Trabalho\Siteware\Backend\LojaSiteware\LojaSiteware.Infra\obj\Debug\netcoreapp3.1\LojaSiteware.Infra.Data.csproj.AssemblyReference.cache
+C:\Users\Ed_17\OneDrive\Ambiente de Trabalho\Siteware\Backend\LojaSiteware\LojaSiteware.Infra\obj\Debug\netcoreapp3.1\LojaSiteware.Infra.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ed_17\OneDrive\Ambiente de Trabalho\Siteware\Backend\LojaSiteware\LojaSiteware.Infra\obj\Debug\netcoreapp3.1\LojaSiteware.Infra.Data.AssemblyInfoInputs.cache
+C:\Users\Ed_17\OneDrive\Ambiente de Trabalho\Siteware\Backend\LojaSiteware\LojaSiteware.Infra\obj\Debug\netcoreapp3.1\LojaSiteware.Infra.Data.AssemblyInfo.cs
+C:\Users\Ed_17\OneDrive\Ambiente de Trabalho\Siteware\Backend\LojaSiteware\LojaSiteware.Infra\obj\Debug\netcoreapp3.1\LojaSiteware.Infra.Data.csproj.CoreCompileInputs.cache
+C:\Users\Ed_17\OneDrive\Ambiente de Trabalho\Siteware\Backend\LojaSiteware\LojaSiteware.Infra\obj\Debug\netcoreapp3.1\LojaSiteware.Infra.Data.csproj.CopyComplete
+C:\Users\Ed_17\OneDrive\Ambiente de Trabalho\Siteware\Backend\LojaSiteware\LojaSiteware.Infra\obj\Debug\netcoreapp3.1\LojaSiteware.Infra.Data.dll
+C:\Users\Ed_17\OneDrive\Ambiente de Trabalho\Siteware\Backend\LojaSiteware\LojaSiteware.Infra\obj\Debug\netcoreapp3.1\LojaSiteware.Infra.Data.pdb

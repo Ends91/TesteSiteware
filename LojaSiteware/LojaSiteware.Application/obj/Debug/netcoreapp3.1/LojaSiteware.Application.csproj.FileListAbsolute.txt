@@ -1,0 +1,15 @@
+C:\Users\Ed_17\OneDrive\Ambiente de Trabalho\Siteware\Backend\LojaSiteware\LojaSiteware.Application\obj\Debug\netcoreapp3.1\LojaSiteware.Application.csproj.AssemblyReference.cache
+C:\Users\Ed_17\OneDrive\Ambiente de Trabalho\Siteware\Backend\LojaSiteware\LojaSiteware.Application\obj\Debug\netcoreapp3.1\LojaSiteware.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ed_17\OneDrive\Ambiente de Trabalho\Siteware\Backend\LojaSiteware\LojaSiteware.Application\obj\Debug\netcoreapp3.1\LojaSiteware.Application.AssemblyInfoInputs.cache
+C:\Users\Ed_17\OneDrive\Ambiente de Trabalho\Siteware\Backend\LojaSiteware\LojaSiteware.Application\obj\Debug\netcoreapp3.1\LojaSiteware.Application.AssemblyInfo.cs
+C:\Users\Ed_17\OneDrive\Ambiente de Trabalho\Siteware\Backend\LojaSiteware\LojaSiteware.Application\obj\Debug\netcoreapp3.1\LojaSiteware.Application.csproj.CoreCompileInputs.cache
+C:\Users\Ed_17\OneDrive\Ambiente de Trabalho\Siteware\Backend\LojaSiteware\LojaSiteware.Application\bin\Debug\netcoreapp3.1\LojaSiteware.Application.deps.json
+C:\Users\Ed_17\OneDrive\Ambiente de Trabalho\Siteware\Backend\LojaSiteware\LojaSiteware.Application\bin\Debug\netcoreapp3.1\LojaSiteware.Application.dll
+C:\Users\Ed_17\OneDrive\Ambiente de Trabalho\Siteware\Backend\LojaSiteware\LojaSiteware.Application\bin\Debug\netcoreapp3.1\LojaSiteware.Application.pdb
+C:\Users\Ed_17\OneDrive\Ambiente de Trabalho\Siteware\Backend\LojaSiteware\LojaSiteware.Application\bin\Debug\netcoreapp3.1\LojaSiteware.Domain.dll
+C:\Users\Ed_17\OneDrive\Ambiente de Trabalho\Siteware\Backend\LojaSiteware\LojaSiteware.Application\bin\Debug\netcoreapp3.1\LojaSiteware.Infra.Data.dll
+C:\Users\Ed_17\OneDrive\Ambiente de Trabalho\Siteware\Backend\LojaSiteware\LojaSiteware.Application\bin\Debug\netcoreapp3.1\LojaSiteware.Domain.pdb
+C:\Users\Ed_17\OneDrive\Ambiente de Trabalho\Siteware\Backend\LojaSiteware\LojaSiteware.Application\bin\Debug\netcoreapp3.1\LojaSiteware.Infra.Data.pdb
+C:\Users\Ed_17\OneDrive\Ambiente de Trabalho\Siteware\Backend\LojaSiteware\LojaSiteware.Application\obj\Debug\netcoreapp3.1\LojaSiteware.Application.csproj.CopyComplete
+C:\Users\Ed_17\OneDrive\Ambiente de Trabalho\Siteware\Backend\LojaSiteware\LojaSiteware.Application\obj\Debug\netcoreapp3.1\LojaSiteware.Application.dll
+C:\Users\Ed_17\OneDrive\Ambiente de Trabalho\Siteware\Backend\LojaSiteware\LojaSiteware.Application\obj\Debug\netcoreapp3.1\LojaSiteware.Application.pdb
